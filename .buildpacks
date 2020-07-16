@@ -1,2 +1,3 @@
-client=https://github.com/heroku/heroku-buildpack-nodejs
+client=https://github.com/heroku/heroku-buildpack-nodejs.git
+client=https://github.com/QultureRocks/qr-post-build-clean-buildpack.git
 https://github.com/heroku/heroku-buildpack-python.git
