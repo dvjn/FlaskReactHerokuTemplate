@@ -1,4 +1,5 @@
 init:
+	python -m pip install pipenv
 	python -m pipenv install --ignore-pipfile --dev
 	cd client && npm i
 

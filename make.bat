@@ -11,6 +11,7 @@ IF /I "%1"=="prod" GOTO prod
 GOTO error
 
 :init
+	python -m pip install pipenv
 	python -m pipenv install --ignore-pipfile --dev
 	PUSHD client && npm i && POPD
 	GOTO :EOF
