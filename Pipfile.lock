@@ -39,11 +39,11 @@
         },
         "flask-caching": {
             "hashes": [
-                "sha256:27ddf54b2d160267b5fd70400359fc79dba5a87aa6e53abde89e627eb0fd4540",
-                "sha256:f3f826790abe3b7797d42b0ad0356328d3c68651a3acb22a016728734cf43c91"
+                "sha256:bcda8acbc7508e31e50f63e9b1ab83185b446f6b6318bd9dd1d45626fba2e903",
+                "sha256:cf19b722fcebc2ba03e4ae7c55b532ed53f0cbf683ce36fafe5e881789a01c00"
             ],
             "index": "pypi",
-            "version": "==1.10.0"
+            "version": "==1.10.1"
         },
         "flask-cors": {
             "hashes": [
@@ -123,10 +123,10 @@
         },
         "werkzeug": {
             "hashes": [
-                "sha256:16d1ef7cdafd6311b933e25903286f347ec8e02468dc3c320d9583dbb4ca998b",
-                "sha256:6e221719d5110083389ab2013887c726563085001e7a0aaba1cc509fc51b84a9"
+                "sha256:c66bc39b74a7d3383fdd009d73fd003f9f39c0fd2b129f282ab0d6a409e452f0",
+                "sha256:ff80a8377526eb9a730148a8646a2b4e4217c519b6b55cc1b6138f666c52f57c"
             ],
-            "version": "==2.0.0rc2"
+            "version": "==2.0.0rc3"
         }
     },
     "develop": {}
