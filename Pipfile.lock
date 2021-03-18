@@ -47,11 +47,11 @@
         },
         "flask-cors": {
             "hashes": [
-                "sha256:6bcfc100288c5d1bcb1dbb854babd59beee622ffd321e444b05f24d6d58466b8",
-                "sha256:cee4480aaee421ed029eaa788f4049e3e26d15b5affb6a880dade6bafad38324"
+                "sha256:74efc975af1194fc7891ff5cd85b0f7478be4f7f59fe158102e91abb72bb4438",
+                "sha256:b60839393f3b84a0f3746f6cdca56c1ad7426aa738b70d6c61375857823181de"
             ],
             "index": "pypi",
-            "version": "==3.0.9"
+            "version": "==3.0.10"
         },
         "gunicorn": {
             "hashes": [
@@ -123,10 +123,10 @@
         },
         "werkzeug": {
             "hashes": [
-                "sha256:16d1ef7cdafd6311b933e25903286f347ec8e02468dc3c320d9583dbb4ca998b",
-                "sha256:6e221719d5110083389ab2013887c726563085001e7a0aaba1cc509fc51b84a9"
+                "sha256:c66bc39b74a7d3383fdd009d73fd003f9f39c0fd2b129f282ab0d6a409e452f0",
+                "sha256:ff80a8377526eb9a730148a8646a2b4e4217c519b6b55cc1b6138f666c52f57c"
             ],
-            "version": "==2.0.0rc2"
+            "version": "==2.0.0rc3"
         }
     },
     "develop": {}
