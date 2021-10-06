@@ -9,7 +9,7 @@ flask-api = "*"
 flask-caching = "*"
 flask-cors = "*"
 gunicorn = "*"
-werkzeug = "~=0.16"
+werkzeug = "~=2.0"
 
 [pipenv]
 allow_prereleases = true
